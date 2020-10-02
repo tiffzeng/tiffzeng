@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on school projects
 - 🌱 I’m currently learning Angular
 - 💬 Ask me about anything!
-- 💻 Currently seeking Summer 2021 internship opportunities
+- 💻 Currently seeking **Summer 2021** and **Fall 2021** internship opportunities
 
 ### How to reach me 📫
 
