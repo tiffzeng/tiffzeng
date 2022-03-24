@@ -8,5 +8,4 @@
 ### How to reach me 📫
 
 - [Email](mailto:tiffzng@gmail.com)
-- [Personal Website](https://flowcv.me/tiffanyzeng)
 - [LinkedIn](https://www.linkedin.com/in/ti-zeng/)
